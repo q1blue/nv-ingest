@@ -1,4 +1,4 @@
-aiohttp==3.9.4
+aiohttp==3.12.14
 charset-normalizer
 click
 dataclasses
@@ -6,7 +6,7 @@ farm-haystack[ocr,inference,pdf,preprocessing,file-conversion]
 fastapi==0.109.1
 fastparquet==2024.2.0
 fsspec
-gunicorn==22.0.0
+gunicorn==23.0.0
 grpcio==1.63.0
 minio~=7.2.5
 more_itertools
@@ -30,7 +30,7 @@ python-docx
 python-multipart
 python-pptx==0.6.23
 redis~=5.0.1
-setuptools==70.0.0
+setuptools==78.1.1
 tabulate
 torchvision==0.18.0
 unstructured-client==0.23.3
